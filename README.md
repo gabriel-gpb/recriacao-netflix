@@ -9,7 +9,7 @@
 
 * Visual Studio Code
 * HTML
-* SCSS
+* CSS
 * JavaScript
 
 ---
